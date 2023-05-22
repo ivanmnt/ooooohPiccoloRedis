@@ -1,5 +1,5 @@
-#ifndef MINI_REDIS_H
-#define MINI_REDIS_H
+#ifndef PICCOLO_REDIS_H
+#define PICCOLO_REDIS_H
 
 #define MAX_KEY_SIZE 50
 #define MAX_VALUE_SIZE 200
